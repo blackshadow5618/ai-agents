@@ -1,0 +1,16 @@
+# Dependency
+node_modules/
+
+# Environment Variables (Security အင်မတန် အရေးကြီးသည်)
+.env
+
+# Build Output (Client တွေရဲ့ Project တွေ)
+clients_projects/
+builds/
+
+# OS related files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
